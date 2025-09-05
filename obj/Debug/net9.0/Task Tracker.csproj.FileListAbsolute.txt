@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Task Tracker\bin\Debug\net9.0\Task Tracker.exe
+C:\Users\HP\OneDrive\Desktop\Task Tracker\bin\Debug\net9.0\Task Tracker.deps.json
+C:\Users\HP\OneDrive\Desktop\Task Tracker\bin\Debug\net9.0\Task Tracker.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Task Tracker\bin\Debug\net9.0\Task Tracker.dll
+C:\Users\HP\OneDrive\Desktop\Task Tracker\bin\Debug\net9.0\Task Tracker.pdb
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.dll
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\refint\Task Tracker.dll
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.pdb
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\Task Tracker.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Task Tracker\obj\Debug\net9.0\ref\Task Tracker.dll
