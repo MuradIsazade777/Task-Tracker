@@ -12,3 +12,25 @@ A lightweight command-line task manager built with C# and .NET. This app allows 
 - 🧼 Clean code structure using services and models
 
 ## 📂 Project Structure
+
+## 🛠 Requirements
+
+- [.NET SDK 6.0+](https://dotnet.microsoft.com/download)
+- Terminal or command prompt
+
+## ▶️ How to Run
+
+```bash
+cd "Task Tracker"
+dotnet run
+📌 Usage
+Choose an option from the menu:
+
+Code
+1. Add Task
+2. List Tasks
+3. Complete Task
+4. Delete Task
+5. Exit
+📄 License
+This project is licensed under the MIT License. See below for details.
