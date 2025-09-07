@@ -10,7 +10,6 @@ A lightweight command-line task manager built with C# and .NET. This app allows 
 - 🗑️ Delete tasks by ID  
 - 💾 Persistent storage via `tasks.json`  
 - 🧼 Clean code structure using services and models
-- 
 
 ## 🛠 Requirements
 
